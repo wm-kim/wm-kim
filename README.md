@@ -14,6 +14,7 @@ Including enemy AI, pathfinding, decision-making, and player engagement.
 I strive to leverage AI technologies to create immersive and unforgettable gaming experiences  
 and contribute to the advancement of game development! 
 
+***
 
 #### 💻 Platforms & Languages 
 
