@@ -34,7 +34,7 @@ and contribute to the advancement of game development!
 #### 📚 Blogs  
 
 old : https://blog.naver.com/thdakfwn  
-new :  
+new : https://digital-biom.tistory.com/
 
 #### 📞 Contact
 
