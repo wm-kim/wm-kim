@@ -3,16 +3,11 @@
 
 ### ✨ Introduction
 
-Hi there! I'm a passionate game developer. 
+Hello! I'm a game developer with a deep passion for AI technologies and their applications in various gaming genres. AI holds the potential to revolutionize gaming experiences by creating more realistic and dynamic virtual worlds.
 
-My primary area of interest in game development is general artificial intelligence that can be applied to a wide range of games.  
-AI has the potential to revolutionize game experiences by creating more realistic and dynamic virtual worlds.  
+My interests span across several AI applications in game development, including procedural generation, behavior prediction, enemy AI, pathfinding, decision-making, and enhancing player engagement. My goal is to harness AI technologies to craft immersive and unforgettable gaming experiences, contributing to the advancement of the game development field.
 
-From procedural generation to behavior prediction, AI can enhance various aspects of game development.  
-Including enemy AI, pathfinding, decision-making, and player engagement.
-
-I strive to leverage AI technologies to create immersive and unforgettable gaming experiences  
-and contribute to the advancement of game development! 
+While I am currently not deeply knowledgeable in AI, I am eager to develop my expertise in this area. I am committed to continuous learning and gaining experience to excel in integrating AI into game development. I am actively exploring innovative and creative approaches to incorporating AI in games and look forward to the new challenges this field offers.
 
 ***
 
