@@ -1,14 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&&color=gradient&customColorList=13&height=150&section=header&text=WM_K's%20Github&fontSize=35)
 
-### ✨ Introduction
-
-Hello! I'm a game developer with a deep passion for AI technologies and their applications in various gaming genres. AI holds the potential to revolutionize gaming experiences by creating more realistic and dynamic virtual worlds.
-
-My interests span across several AI applications in game development, including procedural generation, behavior prediction, enemy AI, pathfinding, decision-making, and enhancing player engagement. My goal is to harness AI technologies to craft immersive and unforgettable gaming experiences, contributing to the advancement of the game development field.
-
-While I am currently not deeply knowledgeable in AI, I am eager to develop my expertise in this area. I am committed to continuous learning and gaining experience to excel in integrating AI into game development. I am actively exploring innovative and creative approaches to incorporating AI in games and look forward to the new challenges this field offers.
-
 ***
 
 #### 💻 Platforms & Languages 
